@@ -26,12 +26,12 @@ surge_ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=🔰 节点选择`selectt`[]🚁 RELAY-AUTO`[]🛰 IPLC-AUTO`[]🚀 CN2-AUTO`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=🔰 节点选择`select`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📲 电报吹水`select`[]🇸🇬 狮城节点`[]🔰 节点选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📹 YouTube`select`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
-custom_proxy_group=🕊 spotify`select`[]🇺🇲 美国节点`select`
-custom_proxy_group=📺 twitch`select`[]🇺🇲 美国节点`select`
-custom_proxy_group=📺 niconico`select`[]🇯🇵 日本节点`select`
+custom_proxy_group=🕊 spotify`select`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=📺 twitch`select`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=📺 niconico`select`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🎥 NETFLIX`select`[]🇸🇬 狮城节点`[]🎥 奈非节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📺 巴哈姆特`select`[]🇨🇳 台湾节点`[]🔰 节点选择`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=📺 AbemaTV`select`[]🇯🇵 日本节点`[]🔰 节点选择`[]🚀 其他节点`[]🚀 手动切换`[]DIRECT
@@ -49,7 +49,4 @@ custom_proxy_group=🍎 苹果服务`select`[]DIRECT`[]🇭🇰 香港节点`[]�
 custom_proxy_group=Ⓜ️ 微软服务`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点
 custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]🔰 节点选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]🔰 节点选择`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🚀 其他节点
-custom_proxy_group=🚀 CN2-AUTO`url-test`(CN2|HINET)`http://www.gstatic.com/generate_204`400
-custom_proxy_group=🚁 RELAY-AUTO`url-test`(中继)`http://www.gstatic.com/generate_204`400
-custom_proxy_group=🛰 IPLC-AUTO`url-test`(IPLC|专线)`http://www.gstatic.com/generate_204`400
 ;设置分组标志位
