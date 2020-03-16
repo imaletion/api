@@ -9,7 +9,7 @@ surge_ruleset=🕊 spotify,rules/ConnersHua/Surge/Ruleset/Media/spotify.list
 surge_ruleset=📺 twitch,rules/ConnersHua/Surge/Ruleset/Media/twitch.list
 surge_ruleset=📺 niconico,rules/ConnersHua/Surge?Ruleset?Media/niconico.list
 surge_ruleset=🎥 NETFLIX,rules/ConnersHua/Surge/Ruleset/Media/Netflix.list
-;媒体list名字清单https://github.com/tindy2013/subconverter/tree/master/base/rules/ConnersHua/Surge/Ruleset/Media
+;媒体list名字清单https://github.com/imaletion/api/tree/master/Media
 surge_ruleset=📲 电报吹水,rules/ConnersHua/Surge/Ruleset/Telegram.list
 surge_ruleset=🌏 港台媒体,rules/ConnersHua/Surge/Ruleset/HKMTMedia.list
 surge_ruleset=🍎 苹果服务,rules/ConnersHua/Surge/Ruleset/Apple.list
